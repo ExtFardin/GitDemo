@@ -15,5 +15,6 @@ cook("blue", 40000)
 print(sell())
 
 print("I did this for me")
+print("I am the danger")
 
 print(say_my_name())
